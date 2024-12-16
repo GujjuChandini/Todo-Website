@@ -1,0 +1,6 @@
+ C:\Users\chand\AppData\Roaming\Python\Python312\Scripts\virtualenv env  --> created environment(this command is used)
+  .\env\Scripts\activate.ps1 --> this command run to shift to that virtual environment
+  pip install flask --> to install flask in that virtual environment
+  pip install flask-sqlalchemy --> to connect to database, helps to do changes in database through python
+
+  pip freeze > requirements.txt --> it stores all our requirements to run these programs
